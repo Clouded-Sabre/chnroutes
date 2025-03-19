@@ -127,6 +127,9 @@ emule, BT 等 P2P 下载软件（P2P 流量不应穿过 VPN）。
   203.208.39.99 www.google.cn google.cn
   ```
 
+20250319:
+- 增加chroutes.py3.py: python3版本的chnroutes.py
+- 仅测试了Linux平台
 
 信息反馈
 --------
